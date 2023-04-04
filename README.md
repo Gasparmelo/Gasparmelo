@@ -2,4 +2,4 @@
 
 - 🔭 Hoje eu trabalho com desenvolvimento web 
 - 🌱 Estudando PHP 
-- 😄 Pronomes: ela/dela.
+
